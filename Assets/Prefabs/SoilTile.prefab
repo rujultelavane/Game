@@ -68,7 +68,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0cdc3ec2b26f448a8a0263c7d411cc43, type: 2}
+  - {fileID: 2100000, guid: eed1f8e759cfa4123aee3b51dbc5c375, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -125,3 +125,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ede6115d143ad42d1aeb82d3578d6a65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SoilTileScript
+  isOccupied: 0
+  plantPrefab: {fileID: 0}
